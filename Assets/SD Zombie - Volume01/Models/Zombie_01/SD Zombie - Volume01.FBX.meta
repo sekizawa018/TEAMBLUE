@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: a5b2d837c379f4e448c7d95e9011dfc0
+timeCreated: 1572971671
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Footsteps
+    100004: Bip01 Head
+    100006: Bip01 HeadNub
+    100008: Bip01 L Calf
+    100010: Bip01 L Clavicle
+    100012: Bip01 L Foot
+    100014: Bip01 L Forearm
+    100016: Bip01 L Hand
+    100018: Bip01 L Thigh
+    100020: Bip01 L Toe0
+    100022: Bip01 L Toe0Nub
+    100024: Bip01 L UpperArm
+    100026: Bip01 Neck
+    100028: Bip01 Pelvis
+    100030: Bip01 R Calf
+    100032: Bip01 R Clavicle
+    100034: Bip01 R Foot
+    100036: Bip01 R Forearm
+    100038: Bip01 R Hand
+    100040: Bip01 R Thigh
+    100042: Bip01 R Toe0
+    100044: Bip01 R Toe0Nub
+    100046: Bip01 R UpperArm
+    100048: Bip01 Spine
+    100050: Bip01 Spine1
+    100052: Body001
+    100054: BodyAcc001
+    100056: BodyAcc002
+    100058: Eye_L01
+    100060: Eye_R01
+    100062: Face001
+    100064: Face002
+    100066: Face003
+    100068: Face004
+    100070: Face_Option001
+    100072: Face_Option002
+    100074: Face_Option003
+    100076: Face_Option004
+    100078: FaceAcc001
+    100080: FaceAcc002
+    100082: FaceAcc003
+    100084: FaceAcc004
+    100086: FaceAcc005
+    100088: FaceAcc006
+    100090: Hair001
+    100092: Hair002
+    100094: Hair003
+    100096: HeadAcc001
+    100098: HeadAcc002
+    100100: HeadAcc003
+    100102: HeadAcc004
+    100104: //RootNode
+    400000: Bip01
+    400002: Bip01 Footsteps
+    400004: Bip01 Head
+    400006: Bip01 HeadNub
+    400008: Bip01 L Calf
+    400010: Bip01 L Clavicle
+    400012: Bip01 L Foot
+    400014: Bip01 L Forearm
+    400016: Bip01 L Hand
+    400018: Bip01 L Thigh
+    400020: Bip01 L Toe0
+    400022: Bip01 L Toe0Nub
+    400024: Bip01 L UpperArm
+    400026: Bip01 Neck
+    400028: Bip01 Pelvis
+    400030: Bip01 R Calf
+    400032: Bip01 R Clavicle
+    400034: Bip01 R Foot
+    400036: Bip01 R Forearm
+    400038: Bip01 R Hand
+    400040: Bip01 R Thigh
+    400042: Bip01 R Toe0
+    400044: Bip01 R Toe0Nub
+    400046: Bip01 R UpperArm
+    400048: Bip01 Spine
+    400050: Bip01 Spine1
+    400052: Body001
+    400054: BodyAcc001
+    400056: BodyAcc002
+    400058: Eye_L01
+    400060: Eye_R01
+    400062: Face001
+    400064: Face002
+    400066: Face003
+    400068: Face004
+    400070: Face_Option001
+    400072: Face_Option002
+    400074: Face_Option003
+    400076: Face_Option004
+    400078: FaceAcc001
+    400080: FaceAcc002
+    400082: FaceAcc003
+    400084: FaceAcc004
+    400086: FaceAcc005
+    400088: FaceAcc006
+    400090: Hair001
+    400092: Hair002
+    400094: Hair003
+    400096: HeadAcc001
+    400098: HeadAcc002
+    400100: HeadAcc003
+    400102: HeadAcc004
+    400104: //RootNode
+    4300000: Body001
+    4300002: Face001
+    4300004: HeadAcc003
+    4300006: HeadAcc001
+    4300008: BodyAcc001
+    4300010: HeadAcc004
+    4300012: Eye_L01
+    4300014: FaceAcc004
+    4300016: FaceAcc005
+    4300018: Eye_R01
+    4300020: FaceAcc006
+    4300022: HeadAcc002
+    4300024: FaceAcc002
+    4300026: Face003
+    4300028: FaceAcc001
+    4300030: Face002
+    4300032: Face004
+    4300034: Hair001
+    4300036: FaceAcc003
+    4300038: Hair003
+    4300040: Hair002
+    4300042: BodyAcc002
+    4300044: Face_Option001
+    4300046: Face_Option002
+    4300048: Face_Option003
+    4300050: Face_Option004
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Body001
+    13700002: BodyAcc001
+    13700004: BodyAcc002
+    13700006: Eye_L01
+    13700008: Eye_R01
+    13700010: Face001
+    13700012: Face002
+    13700014: Face003
+    13700016: Face004
+    13700018: Face_Option001
+    13700020: Face_Option002
+    13700022: Face_Option003
+    13700024: Face_Option004
+    13700026: FaceAcc001
+    13700028: FaceAcc002
+    13700030: FaceAcc003
+    13700032: FaceAcc004
+    13700034: FaceAcc005
+    13700036: FaceAcc006
+    13700038: Hair001
+    13700040: Hair002
+    13700042: Hair003
+    13700044: HeadAcc001
+    13700046: HeadAcc002
+    13700048: HeadAcc003
+    13700050: HeadAcc004
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
